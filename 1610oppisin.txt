@@ -1,0 +1,3 @@
+Eile õppisin: uuesti banditi mängu mängima
+Ubuntust VS codes pythonit avama ja koodi kirjutama
+Täna õppisin pythonis muutujaid, omistama neile, importima, tingimuslauseid
